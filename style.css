@@ -1,0 +1,73 @@
+/* CONTROLING SIZE OF IMAGE */
+/* img{
+    width: 500px;
+    height: 300px;
+} */
+
+/* ALLIGNING IMAGES */
+/* THROUGH MARGIN */
+/* img{
+    margin-left: 300px;
+} */
+
+/*  through float */
+/* img{
+    float: right;
+} */ 
+
+/* centering images */
+/* img{
+    display: block;
+    margin:auto;
+} */
+
+/* BACKGROUN IMAGES */
+/* body{
+    background-image: url(./images/bigcar.jpg);
+} */
+
+/* background repeat */
+/* body{
+    background-image: url(./images/pic03.jpg);
+    background-repeat: repeat;
+} */
+
+/* BACKGROUND ATTACHEMENT */
+/* body{
+    background-image: url(./images/bigcar.jpg);
+    background-attachment: fixed;
+} */
+
+/* B-G POSITION */
+/* body{
+    background-image: url(./images/pic03.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+} */
+
+/* GRADIENTS */
+/* LINEAR GRADIENTS */
+/* body{
+    background-image: linear-gradient(to left red,black,green);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+/* radial gradient  */
+ /* body{
+    background-image: radial-gradient(red,yellow,black);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+/* conic gradient */
+ body{
+    height: 400px;
+    width: 400px;
+    background-image: conic-gradient(red ,yellow ,black ,green );
+    background-repeat: no-repeat;
+}
+
+
+
+
